@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Klikadlo 2</string>
+    <string name="sklep">Sklep (da sie scroolować)</string>
+    <string name="minigry">Minigry (już nie długo)</string>
+    <string name="inne">Inne</string>
+    <string name="wracanie">Powrót</string>
+    <string name="trybnocny">Tryb Nocny</string>
+</resources>
